@@ -1,0 +1,11 @@
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Events_Continue\bin\Debug\netcoreapp2.1\Events_Continue.deps.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Events_Continue\bin\Debug\netcoreapp2.1\Events_Continue.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Events_Continue\bin\Debug\netcoreapp2.1\Events_Continue.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Events_Continue\bin\Debug\netcoreapp2.1\Events_Continue.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Events_Continue\bin\Debug\netcoreapp2.1\Events_Continue.pdb
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Events_Continue\obj\Debug\netcoreapp2.1\Events_Continue.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Events_Continue\obj\Debug\netcoreapp2.1\Events_Continue.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Events_Continue\obj\Debug\netcoreapp2.1\Events_Continue.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Events_Continue\obj\Debug\netcoreapp2.1\Events_Continue.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Events_Continue\obj\Debug\netcoreapp2.1\Events_Continue.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Events_Continue\obj\Debug\netcoreapp2.1\Events_Continue.pdb
